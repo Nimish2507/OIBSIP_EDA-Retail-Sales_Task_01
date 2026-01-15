@@ -32,6 +32,6 @@ behavior. These findings can help businesses optimize pricing strategies,
 product planning, and inventory management.
 
 ## 📂 Files Included
-- EDA_Retail_Sales.ipynb
+- OIBSIP_EDA-Retail-Sales_Task_01
 - menu.csv
 - README.md
